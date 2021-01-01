@@ -1,6 +1,6 @@
 # Kaggle-Challenge-Classification-of-data
 
-Decision tree is used as a classifier.
+Random Forest is used as a classifier.
 
 In this  scores are calculated using Categorization Accuracy.
 
